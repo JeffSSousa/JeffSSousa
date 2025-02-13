@@ -29,3 +29,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeffSSousa/JeffSSousa/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/JeffSSousa/JeffSSousa/output/github-snake.svg" />
 </picture>
+ 
+<div>
+
+![](https://github-readme-stats.vercel.app/api?username=JeffSSousa&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=JeffSSousa&theme=shadow_green&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+</div>
