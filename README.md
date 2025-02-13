@@ -34,11 +34,9 @@
 
 ![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffSSousa&show_icons=true&theme=shadow_green#gh-dark-mode-only)
 
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffSSousa&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&layout=compact&theme=shadow_green#gh-dark-mode-only)](https://github.com/JeffSousa/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/JeffSousa/github-readme-stats)
 
 </div>
 
