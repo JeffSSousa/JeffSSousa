@@ -26,10 +26,10 @@
 
 <div>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JeffSSousa&show_icons=true&theme=shadow_green#gh-dark-mode-only" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=JeffSSousa&show_icons=true&theme=shadow_green#gh-dark-mode-only" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&layout=compact&theme=shadow_green#gh-dark-mode&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&layout=compact&theme=shadow_green#gh-dark-mode&card_width=320" />
 </a>
 </div>
 
