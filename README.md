@@ -32,10 +32,13 @@
  
 <div>
 
-![](https://github-readme-stats.vercel.app/api?username=JeffSSousa&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffSSousa&show_icons=true&theme=shadow_green#gh-dark-mode-only)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=JeffSSousa&theme=shadow_green&hide_border=false)<br/>
+![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffSSousa&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&layout=compact&theme=shadow_green#gh-dark-mode-only)](https://github.com/JeffSousa/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/JeffSousa/github-readme-stats)
 
 </div>
+
