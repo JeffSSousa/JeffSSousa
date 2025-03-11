@@ -30,6 +30,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/JeffSSousa/JeffSSousa/output/github-snake.svg" />
 </picture>
  
+
 <div>
 
 ![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffSSousa&show_icons=true&theme=shadow_green#gh-dark-mode-only)
