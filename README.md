@@ -1,8 +1,16 @@
-## Olá! Eu sou Jefferson  Sousa 👋
+## Olá, sou Jefferson S. Sousa, um entusiasta de tecnologia apaixonado por desenvolvimento e inovação. 👋
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando Java, Spring Boot
-- 😄 Pronouns: Ele/Dele
+Estou sempre em busca de conhecimento e aprimoramento na área, com foco em resolver problemas e facilitar a vida dos usuários. Formado em Análise e Desenvolvimento de Sistemas, busco oportunidades para crescer profissionalmente e aprimorar minhas habilidades em Java.
+
+- 🗄 Banco de Dados – Modelagem, consulta e otimização de dados.
+- ☕ Java & Spring Boot – Desenvolvimento de APIs RESTful e aplicações escaláveis.
+- 🌍 Node.js (Conhecimento Básico) – Construção de aplicações web e APIs.
+- 📊 Power BI – Transformando dados em insights estratégicos.
+- 🔄 Git – Versionamento e colaboração eficiente em projetos.
+- 📑 Microsoft Office (Excel Avançado) – Automação e análise de dados com planilhas avançadas.
+- 🛠 Postman – Testes e validação de APIs REST.
+- 🐳 Docker – Contêineres para facilitar a implantação e escalabilidade de aplicações.
+- ⚡ Metodologias Ágeis – Aplicação de Scrum e Kanban para otimizar processos e entregas.
 
 ## Contato
   <div> 
