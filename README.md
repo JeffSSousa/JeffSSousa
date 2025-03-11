@@ -7,7 +7,7 @@
 ## Contato
   <div> 
   <a href = "mailto:jeffersonmarkd@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jefferson-sousa-8b93a81a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jefferson-sousa-8b93a81a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ## 💻Minhas Tecnologias
@@ -24,6 +24,15 @@
 
 ##
 
+<div>
+<a>
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JeffSSousa&show_icons=true&theme=shadow_green#gh-dark-mode-only" />
+</a>
+<a>
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&layout=compact&theme=shadow_green#gh-dark-mode&card_width=320" />
+</a>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeffSSousa/JeffSSousa/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeffSSousa/JeffSSousa/output/github-snake.svg" />
@@ -31,13 +40,4 @@
 </picture>
  
 
-<div>
-
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffSSousa&show_icons=true&theme=shadow_green#gh-dark-mode-only)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&layout=compact&theme=shadow_green#gh-dark-mode-only)](https://github.com/JeffSousa/github-readme-stats)
-
-
-</div>
 
