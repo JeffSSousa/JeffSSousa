@@ -48,4 +48,3 @@ Estou sempre em busca de conhecimento e aprimoramento na área, com foco em reso
 </picture>
  
 
-
