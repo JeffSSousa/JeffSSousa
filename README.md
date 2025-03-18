@@ -34,10 +34,10 @@ Estou sempre em busca de conhecimento e aprimoramento na área, com foco em reso
 
 <div>
 <a>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JeffSSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&&theme=shadow_green#gh-dark-mode-only&locale=en&hide_border=false" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=JeffSSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&&theme=shadow_green#gh-dark-mode-only&locale=en&hide_border=false" />
 </a>
 <a>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&locale=en&hide_title=false&layout=compact&theme=shadow_green#gh-dark-mode&hide_border=false&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&locale=en&hide_title=false&layout=compact&theme=shadow_green#gh-dark-mode&hide_border=false&card_width=320" />
 </a>
 </div>
 
