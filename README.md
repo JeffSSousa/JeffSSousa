@@ -46,5 +46,5 @@ Estou sempre em busca de conhecimento e aprimoramento na área, com foco em reso
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeffSSousa/JeffSSousa/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/JeffSSousa/JeffSSousa/output/github-snake.svg" />
 </picture>
- 
+  
 
