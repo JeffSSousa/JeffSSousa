@@ -1,16 +1,22 @@
-## Olá, sou Jefferson S. Sousa, um entusiasta de tecnologia apaixonado por desenvolvimento e inovação. 👋
+## Olá, sou Jefferson S. Sousa. 👋
 
-Estou sempre em busca de conhecimento e aprimoramento na área, com foco em resolver problemas e facilitar a vida dos usuários. Formado em Análise e Desenvolvimento de Sistemas, busco oportunidades para crescer profissionalmente e aprimorar minhas habilidades em Java.
+👨‍💻 Desenvolvedor Back-End especializado em Java e Spring Boot, apaixonado por criar soluções que resolvam problemas reais.  
+🔍 Também atuo com Análise de Dados, transformando informações em decisões estratégicas com SQL, Power BI e Excel avançado.  
+🚀 Atualmente focado em desenvolver APIs RESTful escaláveis, integrações de sistemas e automações para melhorar a eficiência de processos.
 
-- 🗄 Banco de Dados – Modelagem, consulta e otimização de dados.
-- ☕ Java & Spring Boot – Desenvolvimento de APIs RESTful e aplicações escaláveis.
-- 🌍 Node.js (Conhecimento Básico) – Construção de aplicações web e APIs.
-- 📊 Power BI – Transformando dados em insights estratégicos.
-- 🔄 Git – Versionamento e colaboração eficiente em projetos.
-- 📑 Microsoft Office (Excel Avançado) – Automação e análise de dados com planilhas avançadas.
-- 🛠 Postman – Testes e validação de APIs REST.
-- 🐳 Docker – Contêineres para facilitar a implantação e escalabilidade de aplicações.
-- ⚡ Metodologias Ágeis – Aplicação de Scrum e Kanban para otimizar processos e entregas.
+### 🛠️ **Minhas principais tecnologias**
+
+- **Java & Spring Boot** – APIs RESTful e sistemas back-end.
+- **Banco de Dados** – Modelagem, consulta e otimização de dados.
+- **Power BI & Excel Avançado** – Dashboards e análises de dados.
+- **Postman** – Testes e validação de APIs REST
+- **Git & Maven & Docker** – Versionamento, build e containers.
+- **NoSQL (em aprendizado)** – MongoDB e soluções orientadas a documentos.
+
+### 🌱 **Em aprendizado contínuo**
+- Cloud (AWS e Azure)
+- Design de sistemas escaláveis
+- Padrões de arquitetura e microserviços
 
 ## Contato
   <div> 
