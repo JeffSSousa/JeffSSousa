@@ -40,10 +40,10 @@
 
 <div>
 <a>
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=JeffSSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&&theme=shadow_green#gh-dark-mode-only&locale=en&hide_border=false" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=JeffSSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&&theme=shadow_green#gh-dark-mode-only&locale=en&hide_border=false" />
 </a>
 <a>
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&locale=en&hide_title=false&layout=compact&theme=shadow_green#gh-dark-mode&hide_border=false" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSSousa&locale=en&hide_title=false&layout=compact&theme=shadow_green#gh-dark-mode&hide_border=false" />
 </a>
 </div>
 
