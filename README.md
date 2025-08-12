@@ -36,12 +36,6 @@
   <a href="https://www.linkedin.com/in/jefferson-sousa-8b93a81a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-### Projetos em destaque
-[💳 Sistema Bancário em Java com JDBC](https://github.com/JeffSSousa/banking-system-jdbc)
-
-[📄 Gestão de Usuários e Posts com MongoDB](https://github.com/JeffSSousa/workshop-springboot3-mongodb)
-
-[📈 InvestHub – Gerenciamento de Investimentos](https://github.com/JeffSSousa/InvestHub-spring-mysql)
 
 ##
 
