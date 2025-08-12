@@ -1,22 +1,34 @@
 ## Olá, sou Jefferson S. Sousa. 👋
 
-👨‍💻 Desenvolvedor Back-End especializado em Java e Spring Boot, apaixonado por criar soluções que resolvam problemas reais.  
-🔍 Também atuo com Análise de Dados, transformando informações em decisões estratégicas com SQL, Power BI e Excel avançado.  
-🚀 Atualmente focado em desenvolver APIs RESTful escaláveis, integrações de sistemas e automações para melhorar a eficiência de processos.
+👨‍💻 Desenvolvedor Back-End Java especializado em Spring Boot, criando soluções escaláveis e eficientes que resolvem problemas reais.
 
-### 🛠️ **Minhas principais tecnologias**
+🔍 Experiência também em Análise de Dados, transformando informações em decisões estratégicas com SQL, Power BI e Excel Avançado.
 
-- **Java & Spring Boot** – APIs RESTful e sistemas back-end.
-- **Banco de Dados** – Modelagem, consulta e otimização de dados.
-- **Power BI & Excel Avançado** – Dashboards e análises de dados.
-- **Postman** – Testes e validação de APIs REST
-- **Git & Maven & Docker** – Versionamento, build e containers.
-- **NoSQL (em aprendizado)** – MongoDB e soluções orientadas a documentos.
+🚀 Atualmente focado no desenvolvimento de APIs RESTful, integrações entre sistemas e automações para otimização de processos.
+
+### 🛠️ **Tecnologias e Ferramentas**
+
+#### Back-End
+- **Java 17+ | Spring Boot |** Spring Data JPA | APIs RESTful
+- Integração com bancos **SQL** (MySQL, PostgreSQL) e **NoSQL** (MongoDB)
+- **JUnit & Mockito** - Testes automatizados para garantir qualidade de código
+- **Swagger/OpenAPI** - Documentação e exploração de APIs
+
+#### Dados e Análises
+- **SQL** - Consultas, modelagem e otimização de queries
+- **Power BI & Excel Avançado** - Dashboards, KPIs e Análise de dados
+
+#### Ferramentas de Desenvolvimento
+- **Git & GitHub** - Controle de versão
+- **Maven** - Gerenciamento de dependências
+- **Docker** - Criação e gerenciamento de containers
+- **Postman** - Testes e validação de APIs
 
 ### 🌱 **Em aprendizado contínuo**
-- Cloud (AWS e Azure)
-- Design de sistemas escaláveis
-- Padrões de arquitetura e microserviços
+- Cloud – AWS e Azure
+- Arquitetura de Sistemas Escaláveis
+- Padrões de Projeto e Microserviços
+- Mensageria – RabbitMQ
 
 ## Contato
   <div> 
@@ -24,21 +36,12 @@
   <a href="https://www.linkedin.com/in/jefferson-sousa-8b93a81a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-## 💻Minhas Tecnologias
+### Projetos em destaque
+[💳 Sistema Bancário em Java com JDBC](https://github.com/JeffSSousa/banking-system-jdbc)
 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Jeff-Jv" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Jef-Sp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-   <img align="center" alt="Jeff-Wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" /> 
-  <img align="center" alt="Jeff-Wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />   
-  <img align="center" alt="Jeff-Wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> 
-  <img align="center" alt="Jeff-Wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />   
-  <img align="center" alt="Jef-Sp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="Jeff-Wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />   
-  <img align="center" alt="Jeff-Wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />     
-  <img align="center" alt="Jeff-Wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" /> 
-  <img align="center" alt="Jeff-Wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />     
-</div>
+[📄 Gestão de Usuários e Posts com MongoDB](https://github.com/JeffSSousa/workshop-springboot3-mongodb)
+
+[📈 InvestHub – Gerenciamento de Investimentos](https://github.com/JeffSSousa/InvestHub-spring-mysql)
 
 ##
 
