@@ -1,34 +1,32 @@
 ## Olá, sou Jefferson S. Sousa. 👋
 
-👨‍💻 Desenvolvedor Back-End Java especializado em Spring Boot, criando soluções escaláveis e eficientes que resolvem problemas reais.
+Desenvolvedor Backend Java com foco em Spring Boot, atuando na construção de APIs REST, integrações entre sistemas e soluções orientadas a regras de negócio.
 
-🔍 Experiência também em Análise de Dados, transformando informações em decisões estratégicas com SQL, Power BI e Excel Avançado.
+Tenho experiência no desenvolvimento de aplicações com foco em consistência de dados, segurança e boas práticas de engenharia de software (POO, SOLID e Clean Code).
 
-🚀 Atualmente focado no desenvolvimento de APIs RESTful, integrações entre sistemas e automações para otimização de processos.
+Além do backend, também possuo experiência em análise de dados, utilizando SQL, Power BI e Excel Avançado para apoio à tomada de decisão.
 
-### 🛠️ **Tecnologias e Ferramentas**
+### **🚀 Tecnologias e ferramentas**
 
-#### Back-End
-- **Java 17+ | Spring Boot |** Spring Data JPA | APIs RESTful
-- Integração com bancos **SQL** (MySQL, PostgreSQL) e **NoSQL** (MongoDB)
-- **JUnit & Mockito** - Testes automatizados para garantir qualidade de código
-- **Swagger/OpenAPI** - Documentação e exploração de APIs
+#### Backend:
+- Java | Spring Boot | Spring Data JPA | Spring Security | APIs REST
 
-#### Dados e Análises
-- **SQL** - Consultas, modelagem e otimização de queries
-- **Power BI & Excel Avançado** - Dashboards, KPIs e Análise de dados
+### Banco de dados:
+- PostgreSQL | MySQL | MongoDB
 
-#### Ferramentas de Desenvolvimento
-- **Git & GitHub** - Controle de versão
-- **Maven** - Gerenciamento de dependências
-- **Docker** - Criação e gerenciamento de containers
-- **Postman** - Testes e validação de APIs
+### Cloud & DevOps:
+- AWS (EC2, S3, IAM) | Docker
 
-### 🌱 **Em aprendizado contínuo**
-- Cloud – AWS e Azure
-- Arquitetura de Sistemas Escaláveis
-- Padrões de Projeto e Microserviços
-- Mensageria – RabbitMQ
+### Testes e documentação:
+JUnit | Mockito | Swagger/OpenAPI
+
+### Ferramentas
+- Git | GitHub | Maven | Postman
+
+
+
+### 🌱 **Em Constante Evolução**
+- Arquitetura de microsserviços, Mensageria(RabbitMQ, Kafka) e CI/CD
 
 ## Contato
   <div> 
