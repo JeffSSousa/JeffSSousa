@@ -11,16 +11,16 @@ Além do backend, também possuo experiência em análise de dados, utilizando S
 #### Backend:
 - Java | Spring Boot | Spring Data JPA | Spring Security | APIs REST
 
-### Banco de dados:
+#### Banco de dados:
 - PostgreSQL | MySQL | MongoDB
 
-### Cloud & DevOps:
+#### Cloud & DevOps:
 - AWS (EC2, S3, IAM) | Docker
 
-### Testes e documentação:
-JUnit | Mockito | Swagger/OpenAPI
+#### Testes e documentação:
+- JUnit | Mockito | Swagger/OpenAPI
 
-### Ferramentas
+#### Ferramentas
 - Git | GitHub | Maven | Postman
 
 
