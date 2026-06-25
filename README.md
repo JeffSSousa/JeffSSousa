@@ -6,7 +6,7 @@ Backend Java Developer passionate about building software that solves real probl
 
 📚 Learning microservices, messaging systems and distributed architecture.
 
-☁️ AWS Certified Cloud Practitioner.
+☁️ 1x AWS Certified.
 
 🚀 Always working on new projects and exploring better ways to build software.
 
