@@ -1,26 +1,49 @@
-## Olá, sou Jefferson S. Sousa. 👋
+# Hey, I'm Jefferson 👋
 
-Desenvolvedor Backend Java com foco em Spring Boot, atuando na construção de APIs REST, integrações entre sistemas e soluções orientadas a regras de negócio.
+Backend Java Developer passionate about building software that solves real problems.
 
-Tenho experiência no desenvolvimento de aplicações com foco em consistência de dados, segurança e boas práticas de engenharia de software (POO, SOLID e Clean Code).
+💻 Currently building backend applications with Java and Spring Boot.
 
-Além do backend, também possuo experiência em análise de dados, utilizando SQL, Power BI e Excel Avançado para apoio à tomada de decisão.
+📚 Learning microservices, messaging systems and distributed architecture.
 
-### **🚀 Tecnologias e ferramentas**
+☁️ AWS Certified Cloud Practitioner.
 
-- **Backend:** Java | Spring Boot | Spring Data JPA | Spring Security | APIs REST
-- **Banco de dados:** PostgreSQL | MySQL | MongoDB
-- **Cloud & DevOps:** AWS (EC2, S3, IAM) | Docker
-- **Testes e documentação:** JUnit | Mockito | Swagger/OpenAPI
-- **Ferramentas:** Git | GitHub | Maven | Postman
+🚀 Always working on new projects and exploring better ways to build software.
 
-### 🌱 **Em Constante Evolução**
-- Arquitetura de microsserviços, Mensageria(RabbitMQ, Kafka) e CI/CD
+---
 
-## Contato
-  <div> 
-  <a href = "mailto:jeffersonmarkd@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jefferson-sousa-8b93a81a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+### 🛠 Tech Stack
+
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat-square\&logo=openjdk)
+![Spring](https://img.shields.io/badge/-Spring_Boot-333333?style=flat-square\&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat-square\&logo=hibernate)
+![JWT](https://img.shields.io/badge/-JWT-333333?style=flat-square\&logo=jsonwebtokens)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square\&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square\&logo=mongodb)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat-square\&logo=amazonaws)
+![JUnit](https://img.shields.io/badge/-JUnit5-333333?style=flat-square\&logo=junit5)
+![Mockito](https://img.shields.io/badge/-Mockito-333333?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square\&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square\&logo=github)
+![Maven](https://img.shields.io/badge/-Maven-333333?style=flat-square\&logo=apachemaven)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square\&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat-square\&logo=swagger)
+
+---
+
+### 📫 Connect with me
+
+<div>
+  <a href="mailto:jeffersonmarkd@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/jefferson-sousa-8b93a81a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 
